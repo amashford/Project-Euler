@@ -1,5 +1,13 @@
 # Project-Euler
 
-To learn Python and develop my R and PowerShell ability I will complete some of the Project Euler problems.
+The aim of this project is to complete the first 10 Project Euler problems using Python, R and Powershell.
+
+This will help me develop the following skills:
+  -Python
+  -R
+  -PowerShell
+  -Git
+
+Link to Project Euler site below.
 
 https://projecteuler.net/
