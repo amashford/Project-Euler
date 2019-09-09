@@ -11,13 +11,14 @@ divide_function <- function(i) {
       result <- FALSE
       break
     }
+  }
   print(result)
 }
+  
+#Setup: step of 2520 as it is the smallest number that is divisible by 1:10
+step <- 2520
 
-#Setup
-step <- 2560
-
-i <- 2560
+i <- 2520
 
 solution <-  FALSE
 
