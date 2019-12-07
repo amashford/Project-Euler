@@ -38,14 +38,10 @@ Function Return-Primes{param([int]$n)
 
 #Function to find prime factors
 Function Return-Highest_Prime_Factor{param([int64]$n)
-    
-    $factors = @()
 
     [int] $n2 = [Math]::SQRT($n)
     
     $primes = Return-Primes -n $n2
-    
-    $inds = @()
 
     $prime_facts = @()
 
